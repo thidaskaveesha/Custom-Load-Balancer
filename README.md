@@ -24,7 +24,7 @@ This project is a custom load balancer implemented in Python. It uses socket pro
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/custom-load-balancer.git
+git clone https://github.com/thidaskaveesha/Custom-Load-Balancer.git
 cd custom-load-balancer
 ```
 
