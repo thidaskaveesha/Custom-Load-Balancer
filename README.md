@@ -25,7 +25,7 @@ This project is a custom load balancer implemented in Python. It uses socket pro
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/thidaskaveesha/Custom-Load-Balancer.git
-cd custom-load-balancer
+cd Custom-Load-Balancer
 ```
 
 ### Step 2: Configure Backend Servers
@@ -42,7 +42,7 @@ Make sure your backend servers are running on these addresses.
 ### Step 3: Run the Load Balancer
 Run the load balancer script:
 ```bash
-python load_balancer.py
+python CustomLoadBalancer.py
 ```
 The load balancer will start listening on port 8000 and distribute incoming requests to the backend servers.
 
